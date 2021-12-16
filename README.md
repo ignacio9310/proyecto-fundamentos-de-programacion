@@ -8,3 +8,5 @@ En este programa se incluyen las siguientes funcionalidades:
 3-Mostrar grafico por comunas
 4-Exportar subconjunto
 
+Link Presentacion en Youtube https://www.youtube.com/watch?v=xkTcUBNiLAQ
+

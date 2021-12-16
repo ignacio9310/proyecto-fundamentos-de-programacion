@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 
 def lectura_archivo(nombre):
-    x = open(nombre+".csv", "r")
+    x = open(nombre+".csv", "r")                                 
     x = x.readlines()
     lista = []
     for i in x:
